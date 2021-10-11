@@ -108,7 +108,7 @@ The report is due to be submitted in the seventh and final week.
 
 ### Summary
 
-Over the 7 weeks, the students will transition from a being lead through and introduction to molecular dynamics and shown how to run molecular simulation to being able to research independently the properties of a material. Week one will focus on an introduction to molecular dynamics, week two will introduce the underlaying theory of molecular simulation, week three will introduce the students to the process of running molecular dynamics simulations. While, in weeks two through four the students are expected to independently apply this knowledge to design simulation that answer questions common to computational chemists.
+Over the 7 weeks, the students will transition from being lead through an introduction to molecular dynamics and shown how to run the molecular simulation to being able to research independently the properties of a material. Week one will focus on an introduction to molecular dynamics, week two will introduce the underlying theory of molecular simulation, week three will introduce the students to the process of running molecular dynamics simulations. While in weeks two through four the students are expected to independently apply this knowledge to design simulation that answers questions common to computational chemists.
 
 ### References
 
