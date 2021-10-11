@@ -3,7 +3,7 @@
 <br/>
 
 This lesson plan is intended to be a suggestion of pace, please feel free to work through the material at your own pace. 
-You have 7 weeks to complete this material. 
+You have 5 weeks to complete this material. 
 
 ### Week 1 - Testing and Introduction to Molecular Dynamics
 
@@ -92,23 +92,16 @@ As with week three, this process ultimately lays with the student. The expectati
 
 #### Assesment
 
-- Key Report Question - How do dopants affect the tranport properties?   
+- Key Report Question - How do dopants affect the tranport properties?    
 
-### Week 5 - Data Collection
-
-This week allows the students to collate the data collected by the group and to perform any remaining calculations necessary. 
-
-### Week 6 - Report Writing
+### Week 5 - Report Writing and Submission (11/11/21)
 
 This week allows the student to write up the bulk of their report.
 
-### Week  7 - Report Submission
-
-The report is due to be submitted in the seventh and final week.
 
 ### Summary
 
-Over the 7 weeks, the students will transition from being lead through an introduction to molecular dynamics and shown how to run the molecular simulation to being able to research independently the properties of a material. Week one will focus on an introduction to molecular dynamics, week two will introduce the underlying theory of molecular simulation, week three will introduce the students to the process of running molecular dynamics simulations. While in weeks two through four the students are expected to independently apply this knowledge to design simulation that answers questions common to computational chemists.
+Over the 5 weeks, the students will transition from being lead through an introduction to molecular dynamics and shown how to run the molecular simulation to being able to research independently the properties of a material. Week one will focus on an introduction to molecular dynamics, week two will introduce the underlying theory of molecular simulation, week three will introduce the students to the process of running molecular dynamics simulations. While in weeks two through four the students are expected to independently apply this knowledge to design simulation that answers questions common to computational chemists.
 
 ### References
 
