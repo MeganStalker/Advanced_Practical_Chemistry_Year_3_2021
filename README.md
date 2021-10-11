@@ -2,7 +2,7 @@
 ## University of Bath, Department of Chemistry 2021-2022
 ### Introduction
 
-Welcome to the advanced chemistry practical - computational. In this eight week practical you will:
+Welcome to the advanced chemistry practical - computational. In this five week practical you will:
 
 - Be introduced to the concept of molecular dynamics simulations and understand the concept of force fields,
 - Use molecular dynamics to simulate the phase diagram of a near-ideal two-dimensional gas,
