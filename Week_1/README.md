@@ -43,3 +43,4 @@ Running the simulation involves a combination of following the instructions in t
 
 - Andrew R. McCluskey
 - Adam R. Symmington
+- Megan R. Stalker
